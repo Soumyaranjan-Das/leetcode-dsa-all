@@ -44,7 +44,7 @@ Smallest Range Covering Elements from K Lists → https://leetcode.com/problems/
 
 Replace the Substring for Balanced String → https://leetcode.com/problems/replace-the-substring-for-balanced-string/
 
-
+_____________________________________________________________________________________________________
 
 
 _**#SLIDING WINDOW**_
@@ -95,7 +95,7 @@ Longest Substring with At Least K Repeating Characters → https://leetcode.com/
 
 Count Subarrays With Fixed Bounds → https://leetcode.com/problems/count-subarrays-with-fixed-bounds/
 
-
+_____________________________________________________________________________________________________
 
 _**#PREFIX-SUM**_
 
@@ -145,6 +145,7 @@ Stone Game VII → https://leetcode.com/problems/stone-game-vii/
 
 Maximum Sum Circular Subarray → https://leetcode.com/problems/maximum-sum-circular-subarray/
 
+_____________________________________________________________________________________________________
 
 _**#MERGE-INTERVALS**_
 
@@ -169,6 +170,8 @@ Car Pooling → https://leetcode.com/problems/car-pooling/
 
 My Calendar I → https://leetcode.com/problems/my-calendar-i/
 
+
+_____________________________________________________________________________________________________
 
 _**#BINARY-SEARCH**_
 
@@ -218,3 +221,31 @@ Capacity To Ship Packages Within D Days → https://leetcode.com/problems/capaci
 Aggressive Cows (LeetCode variant: Magnetic Force Between Two Balls) → https://leetcode.com/problems/magnetic-force-between-two-balls/
 
 Minimize the Maximum Distance to Gas Station → https://leetcode.com/problems/minimize-max-distance-to-gas-station/
+
+_____________________________________________________________________________________________________
+
+_**#SORTING**_
+
+Sort Colors → https://leetcode.com/problems/sort-colors/
+
+Largest Number → https://leetcode.com/problems/largest-number/
+
+Merge Intervals → https://leetcode.com/problems/merge-intervals/
+
+Meeting Rooms II → https://leetcode.com/problems/meeting-rooms-ii/
+
+Minimum Number of Arrows to Burst Balloons → https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+
+Non-overlapping Intervals → https://leetcode.com/problems/non-overlapping-intervals/
+
+Reorder Data in Log Files → https://leetcode.com/problems/reorder-data-in-log-files/
+
+H-Index → https://leetcode.com/problems/h-index/
+
+Maximum Gap → https://leetcode.com/problems/maximum-gap/
+
+Kth Largest Element in an Array → https://leetcode.com/problems/kth-largest-element-in-an-array/
+
+_____________________________________________________________________________________________________
+
+
