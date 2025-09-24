@@ -2,7 +2,7 @@
 
 
 
-#TWO POINTERS 
+**#TWO POINTERS** 
 
 Two Sum II - Input Array Is Sorted → https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 
@@ -43,3 +43,6 @@ Sliding Window Maximum → https://leetcode.com/problems/sliding-window-maximum/
 Smallest Range Covering Elements from K Lists → https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
 
 Replace the Substring for Balanced String → https://leetcode.com/problems/replace-the-substring-for-balanced-string/
+
+
+**#SLIDING WINDOW**
