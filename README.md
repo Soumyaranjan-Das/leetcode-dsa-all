@@ -698,6 +698,16 @@ Reverse Bits – https://leetcode.com/problems/reverse-bits/
 
 Single Number III – https://leetcode.com/problems/single-number-iii/
 
+Number of 1 Bits – https://leetcode.com/problems/number-of-1-bits/
+
+Power of Two – https://leetcode.com/problems/power-of-two/
+
+Counting Bits – https://leetcode.com/problems/counting-bits/
+
+Sum of Two Integers – https://leetcode.com/problems/sum-of-two-integers/
+
+Maximum XOR of Two Numbers in an Array – https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+
 2. Matrix / 2D Grid Problems
 
 Set Matrix Zeroes – https://leetcode.com/problems/set-matrix-zeroes/
